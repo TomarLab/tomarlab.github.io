@@ -21,10 +21,7 @@
 title: TomarLab Projects
 email: p.tomar@eoutlook.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to TomarLab Projet Page. My name is Puneet Tomar. 
-  I am a Machine Learning researcher. My current resarch focus 
-  is Graph Neural Networks. Write me an email to dicuss more on
-  my current projects. 
+  Welcome to TomarLab Projet Page. My name is Puneet Tomar. I am a Machine Learning researcher. My current resarch focus  is Graph Neural Networks. Write me an email to dicuss more on my current projects. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
