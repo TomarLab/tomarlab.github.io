@@ -1,4 +1,7 @@
 layout: post
-title: "POST-TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
+title: "First Github page post"
+date: 2023-01-20 02:20 -0000
 categories: CATEGORY-1 
+
+
+This is a random text. 
